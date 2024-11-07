@@ -1,7 +1,7 @@
 # Change desktop script
 Change desktop and export your settings!
 *Features:
-+ Change the desktop folder (Watch FlyTech's video before using this feature!)
++ Change the desktop folder (Watch FlyTech's video before using this feature! https://www.youtube.com/watch?v=7l5jleLUobo )
 + Change the background automatically
 + Save the icon position (Note that you can't use icon save if you don't install the DesktopOK app. Feel free if you don't want to use that.)
 + Enable/Disable Dark mode
